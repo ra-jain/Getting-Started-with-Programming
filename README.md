@@ -15,5 +15,8 @@ A repo for all the newbies to get started with programming and the path ahead
 - Intel (i5 or i7) or Ryzen processor
 - Graphics 2GB RAM (optional)
 - Storage 256 GB SSD or 1TB HDD atleast
+- Preferably Windows 10 or latest Linux installed in your system(its free and good to go)
+
+
 
 
