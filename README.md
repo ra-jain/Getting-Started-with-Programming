@@ -5,6 +5,7 @@ A repo for all the newbies to get started with programming and the path ahead
 - PC Specifications 
 - Programming Languages
 - Frameworks
+- Competitive Programming
 - Essential Development Tools
 - Deployment and Cloud services
 - Articles, Research papers, Blogs, Podcasts
