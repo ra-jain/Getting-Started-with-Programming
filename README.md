@@ -2,7 +2,8 @@
 A repo for all the newbies to get started with programming and the path ahead
 
 # Topics covered here:
-- PC Specifications 
+- PC Specification
+- Basic Pc buying and Building
 - Programming Languages
 - Frameworks
 - Competitive Programming
